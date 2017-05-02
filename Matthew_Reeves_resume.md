@@ -1,10 +1,8 @@
-> **Matthew Reeves**
-
+### > **Matthew Reeves**
+> mreeves111@gmail.com
 > 5126897042
 
-> mreeves111@gmail.com
-
-Professional Summary
+#### Professional Summary
 * Documentation architecture and development for product architects and consultants; database and application administrators; programmers; and call center personnel
 * Experience documenting enterprise software products that run on Red Hat Linux in a JBoss EAP or WildFly container with Oracle or MariaDB databases
 * Collaboration in Agile development teams
