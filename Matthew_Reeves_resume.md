@@ -1,6 +1,5 @@
 > ### **Matthew Reeves**
-> mreeves111@gmail.com
-> 5126897042
+> mreeves111@gmail.com and 512-689-7042
 
 #### Professional Summary
 * Documentation architecture and development for product architects and consultants; database and application administrators; programmers; and call center personnel
