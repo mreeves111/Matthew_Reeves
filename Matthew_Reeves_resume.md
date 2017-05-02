@@ -5,7 +5,7 @@
 * Documentation architecture and development for product architects and consultants; database and application administrators; programmers; and call center personnel
 * Experience documenting enterprise software products that run on Red Hat Linux in a JBoss EAP or WildFly container with Oracle or MariaDB databases
 * Collaboration in Agile development teams
-* Project management using PMP methodology and Atlassian JIRA Agile planning boards and dashboards
+* Project management using PMI standards and Atlassian JIRA Agile planning boards and dashboards
 * Source control using Apache Subversion and Maven (currently moving to Git and Jenkins)
 * Documentation development using XML with DocBook DTD and oXygen XML Author
 
@@ -15,21 +15,22 @@
 
 > Nokia in Austin, Texas from 11/2008 to present (formerly Alcatel-Lucent, which was acquired by Nokia in 01/2016)
 
-* Lead a 2017 corporate workgroup to transform the user experience with online documentation.
-* Lead team of four writers to deliver documentation for a platform product sold worldwide. 
-* Collaborate with development and product stakeholders to define documentation requirements, priorities, and areas for improvement.
+* Lead a 2017 workgroup to transform the user experience with online documentation across products developed by Nokia's Applications & Analytics business group 
+* Lead team of four writers to deliver documentation for a customer care platform product sold worldwide
+* Collaborate with product stakeholders and development to define documentation requirements, priorities, and areas for improvement
 * Manage documentation release cycles
   * Create documentation plans
   * Create writer tasks in JIRA
-  * Assign tasks to bi-weekly sprints
+  * Assign tasks to bi-weekly sprints for writers, developers, and testers
   * Lead daily writer stand-ups
   * Monitor project progress on Agile planning boards and dashboards in JIRA
   * Mentor writers
-  * Monitor open documentation defects
-* Lead preparation for TL9000 internal and external audits.
+  * Monitor and assign open documentation defects
+* Lead preparation for TL9000 internal and external audits
 * Develop customer satisfaction surveys
   * Analyze responses
   * Make recommendations to address customer feedback
+  * Create associated continuous improvement plans
 
 #### Project Leader, User Documentation
 
@@ -55,9 +56,10 @@ Implemented strategy, templates, and processes for delivering product documentat
 
 > BroadJump, Inc. in Austin Texas from 11/2000 to 11/2001
 
-* Conducted content and usability edits of all technical publications.
-* Developed and maintained online help for server administrative panel, a Web-based tool.
-* Managed comprehensive editorial and usability reviews of all server CLIs and GUIs to ensure consistency and improve intuitiveness of products.
+* Developed the _BroadJump Style Guide for Technical Communications_
+* Conducted content and usability edits of all technical publications
+* Developed and maintained online help for server administrative panel, a Web-based tool
+* Managed comprehensive editorial and usability reviews of all server CLIs and GUIs to ensure consistency and improve product intuitiveness
 
 ### Education
 
