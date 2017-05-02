@@ -13,7 +13,7 @@
 
 > Nokia in Austin, Texas from 11/2008 to present (formerly Alcatel-Lucent, which was acquired by Nokia in 01/2016)
 
-Principal Technical Writer
+#### Principal Technical Writer
 
 * Lead a 2017 corporate workgroup to transform the user experience with online documentation.
 * Lead team of four writers to deliver documentation for a platform product sold worldwide. 
@@ -33,7 +33,7 @@ Principal Technical Writer
 
 > Initiate Systems, Inc. in Austin, Texas from 11/2007 to 09/2008
 
-Project Leader, User Documentation
+#### Project Leader, User Documentation
 
 Implemented strategy, templates, and processes for delivering product documentation through Eclipse-based Infocenters. The project involved moving the source from Microsoft Word to Adobe FrameMaker. The FrameMaker templates were designed to deliver two primary formats, PDFs and Eclipse plug-ins. The plug-ins were generated through templates developed with Mif2Go. 
 
