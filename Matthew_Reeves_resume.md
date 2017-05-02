@@ -19,17 +19,17 @@ Principal Technical Writer
 * Lead team of four writers to deliver documentation for a platform product sold worldwide. 
 * Collaborate with development and product stakeholders to define documentation requirements, priorities, and areas for improvement.
 * Manage documentation release cycles
-..* Create documentation plans
-..* Create writer tasks in JIRA
-..* Assign tasks to bi-weekly sprints
-..* Lead daily writer stand-ups
-..* Monitor project progress on Agile planning boards and dashboards in JIRA
-..* Mentor writers
-..* Monitor open documentation defects
+  * Create documentation plans
+  * Create writer tasks in JIRA
+  * Assign tasks to bi-weekly sprints
+  * Lead daily writer stand-ups
+  * Monitor project progress on Agile planning boards and dashboards in JIRA
+  * Mentor writers
+  * Monitor open documentation defects
 * Lead preparation for TL9000 internal and external audits.
 * Develop customer satisfaction surveys
-..* Analyze responses
-..* Make recommendations to address customer feedback
+  * Analyze responses
+  * Make recommendations to address customer feedback
 
 > Initiate Systems, Inc. in Austin, Texas from 11/2007 to 09/2008
 
