@@ -47,7 +47,7 @@ Implemented strategy, templates, and processes for delivering product documentat
 
 #### Senior Technical Writer
 
-> BroadJump, Inc. in Austin Texas from 10/2001 to 04/2005 (acquired by Motive in 05/2005)
+> BroadJump, Inc. in Austin Texas from 11/2001 to 04/2005 (acquired by Motive in 05/2005)
 
 * Wrote and maintained installation documentation for server software and the OLTP database including the procedures for installing, patching, and upgrading the database and server
 * Developed the documentation for value-added service solutions for broadband providers
