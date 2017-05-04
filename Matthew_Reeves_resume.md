@@ -18,8 +18,8 @@
 * Lead four writers to deliver documentation for a customer care platform product sold worldwide.
 *	Collaborate with product stakeholders and development to define documentation requirements, priorities, and areas for improvement.
 *	Manage documentation release cycles.
-   * Create documentation plans.
-   * Create writer tasks in JIRA.
+..* Create documentation plans.
+..* Create writer tasks in JIRA.
    * Assign tasks to integrated bi-weekly sprints for writers, developers, and testers
    * Lead daily writer stand-ups.
    * Monitor project progress on Agile planning boards and dashboards in JIRA
