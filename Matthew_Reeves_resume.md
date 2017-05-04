@@ -14,6 +14,10 @@
 ### Experience
 #### Principal Technical Writer
 > Nokia, Austin, Texas, 11/2008 to present. Alcatel-Lucent was acquired by Nokia in 01/2016.
+* Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 * Lead a 2017 workgroup to transform the user experience with online documentation across products developed by Nokia's Applications & Analytics business group.
 * Lead four writers to deliver documentation for a customer care platform product sold worldwide.
 *	Collaborate with product stakeholders and development to define documentation requirements, priorities, and areas for improvement.
