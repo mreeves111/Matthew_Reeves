@@ -14,20 +14,16 @@
 ### Experience
 #### Principal Technical Writer
 > Nokia, Austin, Texas, 11/2008 to present. Alcatel-Lucent was acquired by Nokia in 01/2016.
-* Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
 * Lead a 2017 workgroup to transform the user experience with online documentation across products developed by Nokia's Applications & Analytics business group.
 * Lead four writers to deliver documentation for a customer care platform product sold worldwide.
 *	Collaborate with product stakeholders and development to define documentation requirements, priorities, and areas for improvement.
 *	Manage documentation release cycles.
-   * Create documentation plans.
-   * Create writer tasks in JIRA.
-   * Assign tasks to integrated bi-weekly sprints for writers, developers, and testers
-   * Lead daily writer stand-ups.
-   * Monitor project progress on Agile planning boards and dashboards in JIRA
-   * Mentor writers.
+    * Create documentation plans.
+    * Create writer tasks in JIRA.
+    * Assign tasks to integrated bi-weekly sprints for writers, developers, and testers
+    * Lead daily writer stand-ups.
+    * Monitor project progress on Agile planning boards and dashboards in JIRA
+    * Mentor writers.
 * Lead preparation for TL9000 internal and external audits.
 * Develop customer satisfaction surveys.
 
